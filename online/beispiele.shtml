@@ -1,0 +1,136 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <link rel="stylesheet" type="text/css" media="screen, projection" href="style.css" />
+        <link rel="stylesheet" type="text/css" media="print" href="print.css" />
+        <title>Beispiele</title>
+    </head>
+<body id="home">
+
+<div id="header">
+	<h1>Werkstoffberatung</h1>
+	<p>Von Dr. Eberhard Lenz</p>
+</div>
+
+<div id="nav-page">
+<h2>Schnellzugriff</h2>
+<ul>
+    <li><a href="#nav-main">Hauptnavigation</a></li>
+    <li><a href="#nav-secondary">Sekundäre Navigation</a></li>
+</ul>
+</div>
+
+<div id="content-main">
+
+<h2>Beispiele</h2>
+
+<p>Beim Arbeiten mit Metallen enstehen immer wieder beeindruckende
+Aufnahmen im Rasterelektronenmikroskop, die hier beispielhaft vorgestellt werden.</p>
+<p>Wenn Sie auf ein Bild klicken, können Sie eine größere Version des Bildes
+sehen.</p>
+
+<h3>Frei erstarrtes Lot</h3>
+<a href="/images/frei-erstarrtes-lot.png"><img
+src="/images/tn-frei-erstarrtes-lot.png" width="500" height="400"
+alt="Frei erstarrtes Lot" /></a>
+
+<p>Rasterelektronenmikroskopische Aufnahme einer frei erstarrten
+Lotoberfläche, bei der das Lot nur zum geringen Teil den anderen Lötpartner
+berührt und verbunden hat.</p>
+<p>An diesen Stellen ist die Lötung auseinander gerissen worden, und man sieht
+duktile Bruchflächen.</p>
+
+<h3>Schwingbruch</h3>
+<a href="/images/schwingbruch.png"><img src="/images/tn-schwingbruch.png"
+width="499" height="400" alt="Schwingbruchfläche im
+Rasterelektronenmikroskop" /></a>
+<p>Beispiel einer Bruchflächenaufnahme im Rasterelektronenmikroskop von einem
+warmfesten martensitischen Stahl, der periodisch belastet wurde.</p>
+<p>Die feinen parallelen Streifen sind die typischen Merkmale eines stufenweisen
+Rissforschritts.</p>
+
+<h3>H-Bruch</h3>
+<a href="/images/h-bruch.png"><img src="/images/tn-h-bruch.png"
+alt="Wasserstoffbruch im REM" width="500" height="400" /></a>
+
+<p> Typisches interkristallines Bruchaussehen mit „Krähenfüßen“ im
+Rasterelektronenmikroskop einer gerissenen Schraube aufgrund eines
+verzögerten Wasserstoffbruches.</p>
+<p>So etwas kann auftreten, wenn beim galvanischen Verzinken H in zu festen
+Stahl eindringt.</p>
+
+<h3>Sol-Gel-Schichten</h3>
+<a href="/images/sol-gel-1.png"><img src="/images/tn-sol-gel-1.png"
+alt="Sol-Gel-Schicht" width="500" height="400" /></a>
+
+<p> Als ich mich mit der erfolgreichen Applikation von Sol-Gel-Schichten auf
+Edelstahl beschäftigt hatte, entstanden diese rasterlekronenmikroskopischen
+Aufnahmen.</p>
+
+<a href="/images/sol-gel-2.png"><img src="/images/tn-sol-gel-2.png"
+alt="Sol-Gel-Schicht" width="500" height="400" /></a>
+
+<p>Ein spin-off (= nützlicher Nebeneffekt) dieser Anwendung ist das
+ungewöhnliche und extreme Verhalten von Wasser auf diesen Schichten.</p>
+<p>Bei der <strong>abgebildeten</strong> Schicht fließt das Wasser vollständig
+ab. Der Benetzungswinkel ist praktisch Null und deswegen nur schwer messbar.
+Hintergrund: Aufgrund der hohen Oberflächenspannung von Wasser will es lieber
+eine Kugel (Tropfen) bilden, als dass es sich in die vielen „Mikrokanäle“
+verzweigt und damit eine größere Oberfläche schaffen würde.</p>
+<p>Nach einer <strong>Glühung</strong> über 800 °C verändert sich das Aussehen
+der Sol-Gel-Schicht und das Wasser benetzt die Oberfläche so gut, dass das
+Ende des Wasserfilms nicht mit bloßem Auge erkennbar ist und damit ist der
+Benetzungswinkel praktisch 180°.</p>
+
+<h2>Kupferschaum</h2>
+
+<a href="/images/cu-schwamm.png"><img src="/images/tn-cu-schwamm.png"
+alt="Kupferschaum - Überblick" width="500" height="400" /></a>
+
+<a href="/images/detail-cu-schwamm.png"><img src="/images/tn-detail-cu-schwamm.png"
+alt="Kupferschaum - Detailaufnahme" width="500" height="400" /></a>
+
+<p>Rasterelektronenmikroskopische Aufnahmen von hochporösem Cu-Schwamm.</p>
+<p>Dieser dient als Hilfsmittel für Hartlötungen, wenn ganz bestimmte oder
+bisher widersprüchliche Anforderungen an diese Lötungen zuverlässig erfüllt
+werden sollen. Dieses Verfahren wurde von Prof. Lugscheider vor-entwickelt und
+in Japan zur Raumfahrtanwendung fertig-entwickelt.</p>
+
+<h2>Sichtbarmachung von Zwillingskorngrenzen</h2>
+<a href="/images/subkorngrenze.png"><img src="/images/tn-subkorngrenze.png"
+alt="Subkorngrenzen" width="500" height="400" /></a>
+
+<p>Sichtbarmachung (durch Phaseninterferenzkontrast) von Zwillingskorngrenzen
+und Subkörnern in einer metallischen Legierung in einem metallographischen
+Schliff.</p>
+<p>Daten: Anglaslegierung W. Nr. 1.3981 (Markennamen z. B. Vacon® oder
+		Kovar®), überglüht, 2x mit silberhaltigem Lot gelötet, dadurch
+möglicherweise Eindringen des Ag entlang der Gitterfehler in die Metallmatrix
+als Vorstufe der sogen. Silber-Lötbrüchigkeit; beim Löten wurden teilweise
+Wärmezwangsdehnungen induziert.</p>
+
+
+
+</div>
+
+<div id="nav-main">
+<h2>Navigation</h2>
+<ul>
+ <li><a href="/">Home</a></li>
+ <li><a href="/kontakt">Kontakt</a></li>
+ <li><a class="active" href="/beispiele">Beispiele Werkstoffe</a></li>
+ <li><a href="/tribologie">Beispiel Tribologie</a></li>
+ <li><a href="/vita">Vita</a></li>
+</ul>
+</div>
+
+
+<p id="footer">
+Urheberrecht: Dr. Eberhard Lenz | <a href="/impressum">Impressum</a> | Design by Dimiter Petrov
+</p>
+
+</body>
+</html>

@@ -1,0 +1,112 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <link rel="stylesheet" type="text/css" media="screen, projection" href="style.css" />
+        <link rel="stylesheet" type="text/css" media="print" href="print.css" />
+        <title>Werkstoffberatung Dr. Eberhard Lenz</title>
+    </head>
+<body id="home">
+
+<div id="header">
+	<h1>Werkstoffberatung</h1>
+	<p>Von Dr. Eberhard Lenz</p>
+</div>
+
+<div id="nav-page">
+<h2>Schnellzugriff</h2>
+<ul>
+    <li><a href="#nav-main">Hauptnavigation</a></li>
+    <li><a href="#nav-secondary">Sekundäre Navigation</a></li>
+</ul>
+</div>
+
+<div id="content-main">
+
+
+<h2>Werkstoffberatung von Dr. Eberhard Lenz</h2>
+
+<img src="/images/eberhard-lenz.png" width="203" height="250" alt="Portrait
+von Dr. Eberhard Lenz" style="float:left;margin:2ex" />
+
+<p>
+Dr.-Ing. Lenz bietet folgende Dienstleistungen an:</p>
+
+<p>
+Information, Beratung, Unterstützung und gegebenenfalls Weiterleitung an
+kompetente Laboratorien oder Experten zu den Themen</p>
+ 
+<ul style="clear:left">
+  <li>Feinreinigung und Feinstreinigung, d. h.
+  Oberflächenkohlenstoffkonzentration &lt; 5 mg/m² für den Satellitenbau und
+  Hochvakuumbau</li>
+  <li>Werkstoffberatung: Chromstahl und Schnellarbeitsstahl (Volumenänderungen
+		  bei Wärmebehandlungen), Edelstahl, Molybdän, Titan,
+  Tantal, Wolfram, Zirkonium, Vanadium,
+  <!--???TZM¿,--> Niob, Schwarzchrom, OF-Cu, Refraktärmetalle, Graphit</li>
+  <li>Verbindungstechnik zu oben genannnten Werkstoffen -- Schweißen, Löten,
+  Reibschweißen</li>
+  <li>Schadensursachenanalyse (REM, Metallographie) auch bei
+  Refraktärmetallen</li>
+  <li>Lotentwicklung für überwiegend Refraktärmetalle</li>
+  <li>Keramikgerechte Konstruktion bei (krafttragenden)
+    Keramik-Metall-Verbindungen</li>
+  <li>Beratung bei Wärmebehandlungen, um Maßabweichungen bei Bauteilen aus
+  Cr-Stahl oder Schnellarbeitsstahl (Wälzlager oder Kunststoff-Gussformen) zu
+  vermeiden, wenn diese heißer als 100°C werden</li>
+  <li>Besondere und &#8222;smarte&#8221; Methoden für das Entgasen von Flüssigkeiten (Wässern, Öle)</li>
+  <li>Schwarzchrom: wie und warum entsteht Schwarzchrom; dominante
+  Prozessparameter beim Schwarzverchromen für die Qualität und für die
+  Giftigkeit oder Ungiftigkeit (EU-Richtlinie RoHS).</li>
+</ul>
+
+<p>
+Tagungs-&#8222;Reporting&#8221;, Zusammenfassung von Workshops und/oder gezieltes Recherchieren; Erstellen/Schreiben von Dokumentationen oder Gebrauchsanleitungen</p>	
+<p>Referenzen zu allen oben genannten Themen sind vorhanden.</p>
+
+</div>
+
+<div id="nav-main">
+<h2>Navigation</h2>
+<ul>
+ <li><a class="active" href="/">Home</a></li>
+ <li><a href="/kontakt">Kontakt</a></li>
+ <li><a href="/beispiele">Beispiele Werkstoffe</a></li>
+ <li><a href="/tribologie">Beispiel Tribologie</a></li>
+ <li><a href="/vita">Vita</a></li>
+</ul>
+</div>
+
+
+
+<!--
+<div id="nav-secondary">
+<h2>Recent articles</h2>
+<form action="get">
+<p><label for="search" class="hide">Search</label> <input type="text" id="search" /> <input type="button" value="search" />
+</p>
+</form>
+<ul>
+<li><a href="#">An article</a></li>
+<li><a href="#">Another one</a></li>
+<li><a href="#">One more article</a></li>
+<li><a href="#">An article</a></li>
+<li><a href="#">Another one</a></li>
+<li><a href="#">One more article</a></li>
+<li><a href="#">An article</a></li>
+<li><a href="#">Another one</a></li>
+<li><a href="#">One more article</a></li>
+<li><a href="#">An article</a></li>
+<li><a href="#">Another one</a></li>
+<li><a href="#">One more article</a></li>
+</ul>
+</div>
+-->
+<p id="footer">
+Urheberrecht: Dr. Eberhard Lenz | <a href="/impressum">Impressum</a> | Design by Dimiter Petrov
+</p>
+
+</body>
+</html>

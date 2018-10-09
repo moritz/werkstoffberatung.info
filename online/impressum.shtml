@@ -1,0 +1,80 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <link rel="stylesheet" type="text/css" media="screen, projection" href="style.css" />
+        <link rel="stylesheet" type="text/css" media="print" href="print.css" />
+        <title>Impressum</title>
+    </head>
+<body id="home">
+
+<div id="header">
+	<h1>Werkstoffberatung</h1>
+	<p>Von Dr. Eberhard Lenz</p>
+</div>
+
+<div id="nav-page">
+<h2>Schnellzugriff</h2>
+<ul>
+    <li><a href="#nav-main">Hauptnavigation</a></li>
+    <li><a href="#nav-secondary">Sekundäre Navigation</a></li>
+</ul>
+</div>
+
+<div id="content-main">
+
+<h2>Impressum</h2>
+
+<p>
+Verantwortlich f&uuml;r den Inhalt dieser Seiten im Sinne von § 10 Absatz 3
+MDStV ist
+</p>
+<address>
+Moritz Lenz <br />
+Otto-Hahn-Str. 51 <br />
+97218 Gerbrunn <br />
+Tel. 0931 3291943 <br />
+E-Mail: moritz at faui2k3 punkt org
+</address>
+
+<h2>Haftungsauschluss</h2>
+
+<p>Diese Seite wurde mit der n&ouml;tigen Sorgfalt erstellt, um die
+Verletzung von Rechten Dritter zu vermeiden.</p>
+
+<p>Sollte es dennoch passiert sein und auf der Seite irgendwo Urheberrechte
+verletzt oder auf illegale Inhalte verlinkt, bitte ich Sie, mich unter oben
+genannter E-Mail-Adresse darauf aufmerksam zu machen.</p>
+
+<h2>Copyright</h2>
+
+<p>Sofern nicht anders erw&auml;hnt liegen die Rechte an allen Inhalten dieser
+Seiten bei Dr. Eberhard Lenz, alle Rechte vorbehalten.</p>
+
+<p>Sollten Sie Interesse daran haben, z.B. Bilder dieser Seite f&uuml;r Ihre
+eigenen Zwecke zu verwenden, so kontaktieren Sie bitte den Rechteinhaber
+(siehe <a href="/kontakt">Kontakt</a>).</p>
+
+</div>
+
+<div id="nav-main">
+<h2>Navigation</h2>
+<ul>
+ <li><a href="/">Home</a></li>
+ <li><a href="/kontakt">Kontakt</a></li>
+ <li><a href="/beispiele">Beispiele Werkstoffe</a></li>
+ <li><a href="/tribologie">Beispiel Tribologie</a></li>
+ <li><a href="/vita">Vita</a></li>
+</ul>
+</div>
+
+
+
+<p id="footer">
+Urheberrecht: Dr. Eberhard Lenz | <a href="/impressum">Impressum</a> | Design by Dimiter Petrov
+</p>
+
+</body>
+</html>
